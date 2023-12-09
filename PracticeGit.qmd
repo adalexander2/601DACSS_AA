@@ -1,0 +1,7 @@
+---
+title: "Practice question about movie"
+format: html
+editor: visual
+---
+
+The last movie I saw in theaters was the Barbie movie.
